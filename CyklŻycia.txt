@@ -1,1 +1,31 @@
-
+Pierwsze Uruchomienie:
+- onCreate
+- onStart
+- onResume
+Cofnij:
+- onPause
+- onStop
+Ponowne Uruchomienie
+- onCreate
+- onStart
+- onResume
+Przycisk "Home":
+- onPause
+- onStop
+Powrót do aplikacji z listy ostatnio używanych aplikacji:
+- onStart
+- onResume
+Zmiana orientacji:
+- onPause
+- onStop
+- onDestroy
+- onCreate
+- onStart
+- onResume
+Zmiana orientacji z zachowanie stanu:
+- onPause
+- onStop
+- onDestroy
+- onCreate
+- onStart
+- onResume
