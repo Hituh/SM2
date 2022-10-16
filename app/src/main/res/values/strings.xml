@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="button_next">Next</string>
+    <string name="button_tip">Odpowiedź</string>
+    <string name="question1">Czy żaby moga być zielone?</string>
+    <string name="question2">Czy koty mogą być czarne?</string>
+    <string name="question3">Czy konie mogą być białe?</string>
+    <string name="question4">Czy słonie mogą być czerwone?</string>
+    <string name="question5">Czy psy moga być w plamki?</string>
+    <string name="answer_true">Dobrze! :)</string>
+    <string name="answer_false">Źle! :C</string>
+    <string name="yes">Tak</string>
+    <string name="answershown">Podpowiedź została już wyświetlona</string>
+</resources>
